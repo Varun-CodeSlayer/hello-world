@@ -1,2 +1,14 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Hello World
+
+This is my first GitHub repository.
+
+## About
+
+I'm learning Git and GitHub while building my programming projects.
+
+## Technologies
+
+- C
+- C++
+- Python
+- Java
